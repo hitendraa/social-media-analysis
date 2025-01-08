@@ -1,5 +1,7 @@
 **Sociolytics**
- 
+
+Team Name: nextAIbituals
+
 Project Name: Sociolytics
 Category: AI-Powered Social Media Enagagement Analyser
 
@@ -10,4 +12,4 @@ This system is designed to showcase how AI can bridge the gap between raw data a
 
 Built for the Level Supermind Hackathon, our project demonstrates how cutting-edge technology can drive productivity and deeper engagement through personalized and scalable solutions.
 
-REACTJS, RAG, LANGFLOW, ASTRADB
+#REACTJS, #RAG, #LANGFLOW, #ASTRADB
